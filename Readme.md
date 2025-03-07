@@ -56,7 +56,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/premprakash8080/node-mongo-microservices-template.git
 ```
 
 2. Install dependencies:
